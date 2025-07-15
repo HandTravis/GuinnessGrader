@@ -1,0 +1,1 @@
+### This is the G Split Grader! Submit a photo of your G split to recieve a score and compete against your friends ###
