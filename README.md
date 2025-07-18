@@ -1,1 +1,1 @@
-### This is the G Split Grader! Submit a photo of your G split to recieve a score and compete against your friends ###
+MEAN stack implementing employee database by MongoDB. Using this to practice webdev skills. Moving on to personal project of my own inspiration now.
